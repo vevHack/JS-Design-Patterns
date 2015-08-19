@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/JS-Design-Patterns.iml" filepath="$PROJECT_DIR$/.idea/JS-Design-Patterns.iml" />
+      <module fileurl="file://$USER_HOME$/WebstormProjects/JS/.idea/JS-Design-Patterns.iml" filepath="$USER_HOME$/WebstormProjects/JS/.idea/JS-Design-Patterns.iml" />
     </modules>
   </component>
 </project>
